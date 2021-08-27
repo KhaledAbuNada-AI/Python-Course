@@ -4,11 +4,11 @@ number2 = -3
 my_list = [1, 10, 15, 100]
 
 # Operations
-# print((number1 + number2) * 2)
-# print(number1 * number2)
-# print(number1 - number2)
-# print(number1 / number2)
-# print(number1 % number2)
+print((number1 + number2) * 2)
+print(number1 * number2)
+print(number1 - number2)
+print(number1 / number2)
+print(number1 % number2)
 
 # Numbers math
 print(abs(number2))
