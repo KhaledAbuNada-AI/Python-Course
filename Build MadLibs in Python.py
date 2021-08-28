@@ -1,8 +1,8 @@
-programming_language = input("")
-libraries = input("")
-dream = input("")
+programming_language = input("Enter a programming language: ")
+libraries = input("Enter a libraries: ")
+dream = input("Enter a dream: ")
 
 
-print("I like {}")
-print("And work many libraries such as {}")
-print("I dream of becoming the best engineer in the world {}")
+print(f"I like {programming_language}")
+print(f"And work many libraries such as {libraries}")
+print(f"I dream of becoming the best engineer in the world {dream}")
