@@ -6,6 +6,7 @@ def sum_number(num1, num2):
 print(sum_number(60, 10))
 
 
+
 def say_hi(name, age):
     result = "Hello {} your age is {}".format(name, age)
     return result
