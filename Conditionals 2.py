@@ -1,3 +1,10 @@
+'''
+Write a program that asks the user
+Enter the student's mark and print a file
+Grade (excellent, good, good,
+acceptable, fail).
+'''
+
 mark = int(input("Enter Your Mark: "))
 
 # if mark >= 0 and mark < 50:
