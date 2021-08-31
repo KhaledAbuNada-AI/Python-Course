@@ -36,10 +36,12 @@ if operator == "+":
 elif operator == "-":
     print(subtraction(num1, num2))
 elif operator == "*":
-    print(division(num1, num2))
+    print(multiplication(num1, num2))
 elif operator == "/":
+    print(division(num1, num2))
+elif operator == "%":
     print(modulus(num1, num2))
 elif operator == "**":
     print(exponent(num1, num2))
 else:
-    print("")
+    print("Wrong operator please try again")
