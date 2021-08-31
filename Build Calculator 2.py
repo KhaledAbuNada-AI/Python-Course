@@ -20,3 +20,7 @@ def division(num1, num2):
 def modulus(num1, num2):
     result = num1 % num2
     return result
+
+def exponent(num1, num2):
+    result = num1 ** num2
+    return result
