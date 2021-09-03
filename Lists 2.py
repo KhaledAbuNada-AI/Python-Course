@@ -18,3 +18,9 @@ namber.sort()
 namber.reverse()
 print(namber)
 
+
+def maxSubArray(nums):
+    a = sum(nums)
+    print(a)
+
+maxSubArray([1, 2, 3, 4])
